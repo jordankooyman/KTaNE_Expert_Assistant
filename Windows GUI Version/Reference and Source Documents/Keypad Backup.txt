@@ -1,0 +1,95 @@
+			// Initialize Grid
+			if (TextMode)
+			{
+				this->symbol11->Text = L"¶";
+				this->symbol12->Text = L"©";
+				this->symbol13->Text = L"★";
+				this->symbol14->Text = L"☆";
+				this->symbol15->Text = L"ټ";
+				this->symbol16->Text = L"ϗ";
+				this->symbol17->Text = L"Ԇ";
+				this->symbol18->Text = L"¿";
+				this->symbol19->Text = L"ϙ";
+
+				this->symbol21->Text = L"Җ";
+				this->symbol22->Text = L"Ω";
+				this->symbol23->Text = L"Ѭ";
+				this->symbol24->Text = L"Ѽ";
+				this->symbol25->Text = L"Ѣ";
+				this->symbol26->Text = L"Ψ";
+				this->symbol27->Text = L"Ͼ";
+				this->symbol28->Text = L"Ͽ";
+				this->symbol29->Text = L"ƛ";
+
+				this->symbol31->Text = L"б";
+				this->symbol32->Text = L"ϟ";
+				this->symbol33->Text = L"Ѧ";
+				this->symbol34->Text = L"æ";
+				this->symbol35->Text = L"Ӭ";
+				this->symbol36->Text = L"Ҋ";
+				this->symbol37->Text = L"Ѯ";
+				this->symbol38->Text = L"҂";
+				this->symbol39->Text = L"Ҩ";
+			}
+			else
+			{
+				this->symbol11->Image = s11->Image;
+				this->symbol12->Image = s12->Image;
+				this->symbol13->Image = s13->Image;
+				this->symbol14->Image = s14->Image;
+				this->symbol15->Image = s15->Image;
+				this->symbol16->Image = s16->Image;
+				this->symbol17->Image = s17->Image;
+				this->symbol18->Image = s18->Image;
+				this->symbol19->Image = s19->Image;
+
+				this->symbol21->Image = s21->Image;
+				this->symbol22->Image = s22->Image;
+				this->symbol23->Image = s23->Image;
+				this->symbol24->Image = s24->Image;
+				this->symbol25->Image = s25->Image;
+				this->symbol26->Image = s26->Image;
+				this->symbol27->Image = s27->Image;
+				this->symbol28->Image = s28->Image;
+				this->symbol29->Image = s29->Image;
+
+				this->symbol31->Image = s31->Image;
+				this->symbol32->Image = s32->Image;
+				this->symbol33->Image = s33->Image;
+				this->symbol34->Image = s34->Image;
+				this->symbol35->Image = s35->Image;
+				this->symbol36->Image = s36->Image;
+				this->symbol37->Image = s37->Image;
+				this->symbol38->Image = s38->Image;
+				this->symbol39->Image = s39->Image;
+
+				this->symbol11->Text = L"";
+				this->symbol12->Text = L"";
+				this->symbol13->Text = L"";
+				this->symbol14->Text = L"";
+				this->symbol15->Text = L"";
+				this->symbol16->Text = L"";
+				this->symbol17->Text = L"";
+				this->symbol18->Text = L"";
+				this->symbol19->Text = L"";
+
+				this->symbol21->Text = L"";
+				this->symbol22->Text = L"";
+				this->symbol23->Text = L"";
+				this->symbol24->Text = L"";
+				this->symbol25->Text = L"";
+				this->symbol26->Text = L"";
+				this->symbol27->Text = L"";
+				this->symbol28->Text = L"";
+				this->symbol29->Text = L"";
+
+				this->symbol31->Text = L"";
+				this->symbol32->Text = L"";
+				this->symbol33->Text = L"";
+				this->symbol34->Text = L"";
+				this->symbol35->Text = L"";
+				this->symbol36->Text = L"";
+				this->symbol37->Text = L"";
+				this->symbol38->Text = L"";
+				this->symbol39->Text = L"";
+			}
