@@ -1,6 +1,8 @@
 # KTaNE_Expert_Assistant
+![Windows GUI Homepage](Windows GUI Version Homepage.png?raw=true "Homepage of Windows GUI Version")
 A program for solving all the puzzles in the base version of Keep Talking and Nobody Explodes, a cooperative timed puzzle game, to reduce the number of players needed in the role of expert down to just 1, with multiple versions.
 This program replaces the bomb defusal manual that would normally be needed, and solves all the puzzles for you (however, having 2 players is still recommended, as switching between 2 devices if playing solo makes gameplay much slower, and more than 2 players does not leave enough for additional players to do as there are no puzzles to solve).
+To use this program, a module is selected from the homepage, then the requested information from the bomb shown in-game is input by the expert before the solution is then output to the expert for the defuser to do.
 
 There are currently 2 complete versions:
 	Terminal Version (C++)
